@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Payoneer Take Home Test</string>
+    <string name="netwok_error">Network Error. Swipe down to reload</string>
+    <string name="payment_screen_header">Payment methods</string>
+    <string name="payment_button_text">Pay</string>
+    <string name="home_screen_title">Payoneer</string>
+    <string name="exit_toast">Press back again to exit</string>
+</resources>
